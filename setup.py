@@ -8,7 +8,7 @@ REQUIREMENTS = [
     "matplotlib",
     "numpy",
     "torch",
-    "chumpy @ git+ssh://git@github.com/hassony2/chumpy"]
+    "chumpy @ git+https://github.com/uyoung-jeong/chumpy.git"]
 
 setuptools.setup(
     name="smplpytorch",

@@ -24,7 +24,7 @@ The code is adapted from the [manopth](https://github.com/hassony2/manopth) repo
     cd smplpytorch
     pip install .
     ```
-  * Option 2: You can install `smplpytorch` from [PyPI](https://pypi.org/project/smplpytorch/). Additionally, you might need to install [chumpy](https://github.com/hassony2/chumpy.git).
+  * Option 2: You can install `smplpytorch` from [PyPI](https://pypi.org/project/smplpytorch/). Additionally, you might need to install [chumpy](https://github.com/uyoung-jeong/chumpy.git).
     ``` bash
     pip install smplpytorch
     ```

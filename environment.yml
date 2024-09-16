@@ -8,4 +8,4 @@ dependencies:
   - pytorch
   - pip
   - pip:
-    - git+https://github.com/hassony2/chumpy.git
+  - git+https://github.com/uyoung-jeong/chumpy.git
